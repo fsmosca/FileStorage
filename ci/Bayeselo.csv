@@ -6,12 +6,12 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 5,Alvin Panes Peratilla,2398,283,207,7,85.7,2173,6,1,0
 6,Chester Neil Reyes,2397,196,166,14,78.6,2162,11,3,0
 7,Norvin Gravillo,2394,298,219,7,85.7,2144,6,1,0
-8,Joel Jr. Pimentel,2386,221,193,8,81.2,2152,6,1,1
+8,Joel Pimentel Jr.,2386,221,193,8,81.2,2152,6,1,1
 9,Narquinden Reyes,2384,301,245,7,85.7,2062,6,1,0
 10,Dennis Navales,2380,243,216,8,75.0,2188,6,2,0
 11,Eliaquim Baylon,2372,377,539,1,0.0,2521,0,1,0
 12,Rowell Roque,2344,201,177,14,82.1,2058,11,2,1
-13,Michael Jr. Concio,2335,198,171,14,78.6,2090,11,3,0
+13,Michael Concio Jr.,2335,198,171,14,78.6,2090,11,3,0
 14,Richard Milo,2330,246,209,7,78.6,2135,5,1,1
 15,Mark Gerald Reyes,2315,175,153,14,75.0,2144,10,3,1
 16,Ryan Recososa,2303,187,171,14,75.0,2088,10,3,1
@@ -21,7 +21,7 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 20,Kevin Mirano,2272,189,163,14,78.6,2053,11,3,0
 21,Jeth Romy Morado,2260,222,211,7,57.1,2223,4,3,0
 22,Bj Harvey De Mesa,2258,374,539,1,0.0,2386,0,1,0
-23,Venancio Jr. Loyola,2258,240,210,8,75.0,2061,6,2,0
+23,Venancio Loyola Jr.,2258,240,210,8,75.0,2061,6,2,0
 24,Real Spencer,2252,248,219,7,71.4,2100,5,2,0
 25,Alvin Perartilla,2250,286,217,7,85.7,1996,6,1,0
 26,Carlo Magno Rosaupan,2239,263,230,7,71.4,2080,5,2,0
@@ -122,7 +122,7 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 121,Dona Jane Rubin,1919,183,178,8,56.2,1898,4,3,1
 122,Ramel Ramilla,1919,165,162,14,60.7,1838,8,5,1
 123,Mark Louie Velasco,1918,227,213,7,57.1,1884,4,3,0
-124,Rogelio Jr Talara,1916,199,202,8,50.0,1931,4,4,0
+124,Rogelio Talara Jr.,1916,199,202,8,50.0,1931,4,4,0
 125,Carlos III Moreno,1915,189,190,8,50.0,1935,4,4,0
 126,Hector Villamora,1910,201,200,8,50.0,1911,4,4,0
 127,Vince Angelo Medina,1910,241,238,7,57.1,1856,4,3,0
@@ -130,9 +130,9 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 129,John Calvin De Mesa,1900,218,207,7,57.1,1863,4,3,0
 130,Lemuel Montero,1900,194,199,8,43.8,1934,3,4,1
 131,Orven Ortiz,1892,204,189,8,62.5,1837,5,3,0
-132,Eduardo Jr. Campos,1892,177,173,14,53.6,1872,7,6,1
+132,Eduardo Campos Jr.,1892,177,173,14,53.6,1872,7,6,1
 133,Drake Lester Basaca,1892,208,195,8,56.2,1862,4,3,1
-134,Danilo Jr. Herbolingo,1888,203,218,7,35.7,1968,2,4,1
+134,Danilo Herbolingo Jr.,1888,203,218,7,35.7,1968,2,4,1
 135,Vhiene Jander Ranoco,1886,206,206,7,50.0,1878,3,3,1
 136,Christopher Tubalado,1885,198,192,8,50.0,1921,4,4,0
 137,Keirt Rolevan Rusia,1881,202,205,8,50.0,1877,4,4,0
@@ -226,7 +226,7 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 225,Carlo Sabugal,1661,227,253,6,33.3,1764,2,4,0
 226,Michael Pinar,1660,374,538,1,0.0,1788,0,1,0
 227,Howell Villamor,1658,207,218,7,42.9,1694,3,4,0
-228,Virgilio A. Jr. Perpetua,1653,243,247,6,50.0,1657,3,3,0
+228,Virgilio A. Perpetua Jr.,1653,243,247,6,50.0,1657,3,3,0
 229,Jonathan Soriano,1653,231,232,7,42.9,1722,3,4,0
 230,Acero Voltaire,1652,216,251,7,28.6,1795,2,5,0
 231,Mark Rengine Salinas,1648,224,252,6,25.0,1788,1,4,1
@@ -244,11 +244,11 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 243,Carl Marx Rosaupan,1623,224,259,7,28.6,1764,2,5,0
 244,Edwin Caballero,1618,215,230,7,42.9,1664,3,4,0
 245,Joko Agapay,1614,271,263,6,33.3,1810,2,4,0
-246,Rogelio Jr. Enriquez,1612,211,239,8,25.0,1799,2,6,0
+246,Rogelio Enriquez Jr.,1612,211,239,8,25.0,1799,2,6,0
 247,Khirsten Cacanog,1611,208,217,8,37.5,1720,3,5,0
 248,Adelyn Bensi,1608,207,218,8,37.5,1704,3,5,0
 249,Henry Villanueva,1606,215,225,7,42.9,1658,3,4,0
-250,Alexander Dale Jr. Baena,1599,210,221,7,42.9,1638,3,4,0
+250,Alexander Dale Baena Jr.,1599,210,221,7,42.9,1638,3,4,0
 251,Arvin Salarda,1587,219,224,7,42.9,1643,3,4,0
 252,James Paul Dimafelix,1586,204,222,7,28.6,1799,2,5,0
 253,Allan Morallos,1585,247,234,7,42.9,1703,3,4,0
@@ -308,10 +308,10 @@ Rank,Name,BayesElo,+MErr,-MErr,Games,Score%,OppRating,Win,Loss,Draw
 307,Jose Felipe Gelig,1338,214,279,7,7.1,1653,0,6,1
 308,Wisely Maalam,1331,225,280,6,16.7,1558,1,5,0
 309,James Bohol,1321,271,430,4,0.0,1624,0,4,0
-310,Marlon Aurellano Jr. Balbaboco,1313,268,400,5,0.0,1657,0,5,0
+310,Marlon Aurellano Balbaboco Jr.,1313,268,400,5,0.0,1657,0,5,0
 311,Darren Moraleda,1254,224,284,6,16.7,1487,1,5,0
 312,Sean Tabios,1248,250,386,5,0.0,1586,0,5,0
 313,Eduardo Porlaje,1248,373,513,1,0.0,1374,0,1,0
 314,Cian Arris Saloma,1204,237,354,6,0.0,1552,0,6,0
-315,Davis Jr. Olase,1192,272,402,5,0.0,1568,0,5,0
+315,Davis Olase Jr.,1192,272,402,5,0.0,1568,0,5,0
 316,Jeffrey Dela Cruz,1143,306,459,2,0.0,1342,0,2,0
